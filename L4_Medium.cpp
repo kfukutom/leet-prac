@@ -3,6 +3,8 @@
 #include<vector>
 using namespace std;
 
+// JPMorgan & Chase Superday
+
 string getSmallestString(string word, string substr) {
     if (word.length() < 1) {
         return word;
